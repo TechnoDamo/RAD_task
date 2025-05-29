@@ -1,0 +1,11 @@
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.csproj.AssemblyReference.cache
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.Form1.resources
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.Forms.AddInvoiceForm.resources
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.Properties.Resources.resources
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.csproj.GenerateResource.cache
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.csproj.CoreCompileInputs.cache
+C:\Users\damir\RAD_task\RAD_task\bin\Debug\RAD_task.exe.config
+C:\Users\damir\RAD_task\RAD_task\bin\Debug\RAD_task.exe
+C:\Users\damir\RAD_task\RAD_task\bin\Debug\RAD_task.pdb
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.exe
+C:\Users\damir\RAD_task\RAD_task\obj\Debug\RAD_task.pdb
